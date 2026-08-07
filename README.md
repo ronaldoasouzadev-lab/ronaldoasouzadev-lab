@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá! Eu sou Ronaldo Antonio 👋
 
-<!--
-**ronaldoasouzadev-lab/ronaldoasouzadev-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Em busca de uma oportunidade de estágio em Desenvolvimento Web
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Engenharia de Software e estou desenvolvendo
+minhas habilidades em programação e desenvolvimento web.
+
+Atualmente estou estudando HTML, CSS, JavaScript, C e Python,
+além de Git e GitHub.
+
+## 🛠️ Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- C
+- Python
+- Git
+- GitHub
+- VS Code
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Web
+- JavaScript
+- Git e GitHub
+- Lógica de programação
+
+## 📫 Contato
+
+📧 Email: ronaldo.a.souza.dev@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/ronaldo-antonio-818028299/
