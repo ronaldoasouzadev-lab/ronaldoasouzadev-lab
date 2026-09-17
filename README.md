@@ -15,6 +15,9 @@ Atualmente estou estudando C, Git e GitHub.
 - C
 - Git
 - GitHub
+- Python
+- HTML5
+- CSS3
 
 ## 📚 Atualmente estudando
 
@@ -22,6 +25,9 @@ Atualmente estou estudando C, Git e GitHub.
 - C
 - Git e GitHub
 - Lógica de programação
+- Python
+- HTML5
+- CSS3
 
 ## 📫 Contato
 
