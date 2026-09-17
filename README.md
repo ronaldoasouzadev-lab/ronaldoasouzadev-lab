@@ -8,7 +8,7 @@
 Sou estudante de Engenharia de Software e estou desenvolvendo
 minhas habilidades em programação e desenvolvimento web.
 
-Atualmente estou estudando C, Git e GitHub.
+Atualmente estou estudando C, Git, GitHub Copilot, Python, HTML5 e CSS3.
 
 ## 🛠️ Tecnologias
 - GitHub Copilot
@@ -28,6 +28,7 @@ Atualmente estou estudando C, Git e GitHub.
 - Python
 - HTML5
 - CSS3
+- GitHub Copilot
 
 ## 📫 Contato
 
